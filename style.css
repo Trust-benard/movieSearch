@@ -21,7 +21,7 @@ main h2 {
 }
 
 
-@media (max-width: 1000px) {
+@media (max-width: 1250px) {
     main {
         text-align: center;
         margin-top: 150px;
