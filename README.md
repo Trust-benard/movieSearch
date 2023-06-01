@@ -1,0 +1,1 @@
+An app that search for mivies using api and its also responsive for mobile

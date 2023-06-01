@@ -1,0 +1,42 @@
+body {
+background-color: rgb(146, 129, 109);
+}
+
+main {
+    text-align: center;
+    margin-top: 80px;
+    width: 100%;
+}
+
+img {
+    height: 90vh;
+    width: 70vh;
+}
+
+main h2 {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+@media (max-width: 600px) {
+    main {
+        text-align: center;
+        margin-top: 150px;
+        width: 100%;
+    }
+    
+    img {
+        height: 60vh;
+        
+    }
+    
+    main h2 {
+        font-size: 16px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 600;
+        text-align: center;
+    }
+}
