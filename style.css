@@ -1,4 +1,4 @@
-body {
+nobody {
 background-color: rgb(146, 129, 109);
 }
 
@@ -10,7 +10,7 @@ main {
 
 img {
     height: 60vh;
-    width: 200px;
+    width: 300px;
 }
 
 main h2 {
@@ -30,7 +30,7 @@ main h2 {
     
     img {
         height: 60vh;
-        width: 40vh;
+        width: 60vh;
     }
     
     main h2 {
